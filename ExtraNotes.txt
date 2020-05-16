@@ -1,0 +1,16 @@
+In class 2
+	- stores data using shared preferences 
+	- retrieves and displays data in a second activity
+
+NHL info
+	- pulls data remotely using volley to populate a list
+
+
+Final Exam
+	- pulls data remotely using vollet to populate a list
+	- takes list and uses array adapter to populate list view
+	- clicking on any item gives more info in second activity
+	- currently missing source files, only have APK
+
+SQLITE 
+	- currently missing all SQLITE work 
